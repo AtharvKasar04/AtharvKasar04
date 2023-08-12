@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AtharvKasar04
-- 👀 I’m interested in Web-Development, Artificial Intelligence, Machine learning
+- 👀 I’m interested in Web-Development, Artificial Intelligence
 - 🌱 I’m currently learning Web-Development
 - 💞️ I’m looking to collaborate on Open source
 - 📫 How to reach me atharvk752@gmail.com
