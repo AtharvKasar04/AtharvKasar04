@@ -1,4 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=AtharvKasar04&icon=8&color=3)](https://visitcount.itsvg.in)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvkasar04&label=Profile%20views&color=0e75b6&style=flat" alt="atharvkasar04" /> </p>
 
 <h2>Hi 👋, I'm Atharv Kasar</h2>
