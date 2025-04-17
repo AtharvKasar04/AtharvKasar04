@@ -2,7 +2,8 @@
 
 <h2>Hi 👋, I'm Atharv Kasar</h2>
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Development.<br><br>🌱 I’m currently learning Full Stack Dev.<br><br>💬 Ask me about react<br><br>📫 How to reach me atharvk752@gmail.com
+🔭 I’m currently working on Full Stack Development & I love building stuff.
+.<br><br>🌱 I’m currently learning Full Stack Dev.<br><br>💬 Ask me about react<br><br>📫 How to reach me atharvk752@gmail.com
 
 
 ## 🌐 Socials:
