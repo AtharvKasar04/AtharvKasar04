@@ -3,7 +3,7 @@
 <h2>Hi 👋, I'm Atharv Kasar</h2>
 # 💫 About Me:
 🔭 I’m currently working on Full Stack Development & I love building stuff with IoT too.
-<br><br>📫 How to reach me atharvk752@gmail.com<br><br>👨‍💻 Currently working as a <strong>Frontend Engineer - Intern at SoftDEL Systems Pvt. Ltd (KP - Pune, Maharashtra)</strong>
+<!-- <br><br>📫 How to reach me atharvk752@gmail.com<br><br>👨‍💻 Currently working as a <strong>Frontend Engineer - Intern at SoftDEL Systems Pvt. Ltd (KP - Pune, Maharashtra)</strong> -->
 
 
 ## 🌐 Socials:
